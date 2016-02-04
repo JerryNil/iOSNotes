@@ -21,4 +21,12 @@
 - 避免任何昂贵的views or effects
 - 避免混乱的视图层次结构
 
+### Core Animation Pipeline
+
 ![Core Animation Pipeline](https://github.com/JerryNil/iOSNotes/blob/master/iOS%E5%B0%8F%E6%8A%84%EF%BC%9AAnimation%20and%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/CoreAnimationPipeline.jpg)
+
+### Tile Based Rendering
+
+！[rendering pipeline](https://github.com/JerryNil/iOSNotes/blob/master/iOS%E5%B0%8F%E6%8A%84%EF%BC%9AAnimation%20and%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/TileBasedRendering.jpg)
+
+### 
